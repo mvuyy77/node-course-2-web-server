@@ -1,0 +1,12 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "First Web Server",
+  "main": "app.js",
+  "author": "Madhu Vuyyuru",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hbs": "^4.0.1"
+  }
+}
